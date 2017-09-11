@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
+This project aims to build a website that has a similar functionality to Instagram. This includes login and logout features (using an email and password), the ability to post pictures with captions, and view other's posts through a feed.
+5
+This was largely built through this Youtube tutorial, which built this project as an introduction to Ruby on Rails: https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+### Register
 
-* System dependencies
+### Login/Logout
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Adding a new post
