@@ -8,7 +8,8 @@ This was largely built through this Youtube tutorial, which built this project a
 ## Features
 
 ### Register
-
+![alt text](https://github.com/nathanljustin/nathanljustin-instagram/blob/master/gifs/Register.gif "Register")
 ### Login/Logout
-
+![alt text](https://github.com/nathanljustin/nathanljustin-instagram/blob/master/gifs/Login:Logout.gif "Login/Logout")
 ### Adding a new post
+![alt text](https://github.com/nathanljustin/nathanljustin-instagram/blob/master/gifs/Add.gif "Adding a new post")
